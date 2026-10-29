@@ -1,0 +1,4 @@
+interface:
+  display_name: "项目立项报告与决议"
+  short_description: "按项目材料和模板编写或修订立项报告与决议，统一日期、标黄待填项和自然行文"
+  default_prompt: "请用 $project-initiation-docs 根据本项目材料和模板，生成立项报告与立项决议，并按我的最新要求处理日期、预算、人数和配图。"
